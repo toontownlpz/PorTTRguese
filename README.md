@@ -7,6 +7,6 @@ As it stands, a majority of the textures have been dealt with. Pretty much every
 
 Currently the textures featured on the Cog Disguises page in the Shticker Book have not been modified as their texture files are a little bit more difficult to work with and would take more time to get right. Once I get the chance, I will look into doing these as well. I have also considered attempting to edit some of the TTR-made textures such as the Silly Reader GUI from 2019 and the Battle Menu they revamped back in 2021, but I am not an artist so this is not something I'm all too comfortable doing, but I may give it a shot eventually.
 
-By no means am I an artist, so a lot of this work is done with the little knowledge and capability that I have. I would absolutely love to be able to replace a bunch of the new TTR-made textures with custom ones to account for the Portuguese language, however I am not capable of doing so. If you would like to contribute, please don't hestiate to reach out. I'd love to expand this pack.
+By no means am I an artist, so a lot of this work is done with the little knowledge and capability that I have. I would absolutely love to be able to replace a bunch of the new TTR-made textures with custom ones to account for the Portuguese language, however I am not capable of doing so. If you would like to contribute, please don't hestiate to reach out. I'd love to expand this pack. Help on both the translation and the art sides are much appreciated.
 
 Thanks for reading.
